@@ -1,2 +1,2 @@
 # WhereIsMyVehicle
-Flutter application to locate your shared vehicle with your family
+Flutter application to locate your vehicle shared with your family
